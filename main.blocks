@@ -1,0 +1,37 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_gesture_event" id=")$~?^~sfEszDT,__V(!V" x="0" y="0"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_show_leds" id="w5!k[#$nvWsA[{w]p:)?"><field name="LEDS">`
+        . # . # . 
+        # . # . # 
+        . # . # . 
+        # . # . # 
+        . # . # .
+        `</field></block></statement></block><block type="device_gesture_event" id="hZ)[+6}-Q/bdf/5liy@Z" x="223" y="-2"><field name="NAME">Gesture.LogoDown</field><statement name="HANDLER"><block type="device_show_leds" id="+Mp=eCDe8M1;He%j{pSn"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        . . . . . 
+        . . . . .
+        `</field></block></statement></block><block type="device_gesture_event" id="Y3Wb#$,~$|TJ$BV#GPd2" x="452" y="-3"><field name="NAME">Gesture.LogoUp</field><statement name="HANDLER"><block type="device_show_leds" id="RDXn.3Z-~#0|Vdk_:jpp"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field></block></statement></block><block type="device_gesture_event" id="a+:|VHKO3gGgE:Z3t+ZY" x="3" y="314"><field name="NAME">Gesture.ScreenUp</field><statement name="HANDLER"><block type="device_show_leds" id="{.:jk;13?GizfyEK,[d%"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field></block></statement></block><block type="device_gesture_event" id="[Vp=9NwN~^=K{Cz2#r+%" x="228" y="314"><field name="NAME">Gesture.TiltLeft</field><statement name="HANDLER"><block type="device_show_leds" id="iFMSw8wsph=%bbZ3S`}8"><field name="LEDS">`
+        # # # . . 
+        # # # . . 
+        # # # . . 
+        # # # . . 
+        # # # . .
+        `</field></block></statement></block><block type="device_gesture_event" id="CeSWLWV$(u!*GD!gW=OS" x="457" y="311"><field name="NAME">Gesture.TiltRight</field><statement name="HANDLER"><block type="device_show_leds" id="n#sy6lI_PFb-`Sii#,BC"><field name="LEDS">`
+        . . # # # 
+        . . # # # 
+        . . # # # 
+        . . # # # 
+        . . # # #
+        `</field></block></statement></block></xml>
